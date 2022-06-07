@@ -3,7 +3,7 @@
 
 [![Publications](https://img.shields.io/badge/-Publications-red)](https://scholar.google.com/citations?user=4g4dh1EAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational)](https://www.linkedin.com/in/jeffrey-haltom/)
-#[![Views](https://visitor-badge.glitch.me/badge?page_id=urmi-21.visitor-badge)](https://github.com/jahaltom)
+[![Views](https://visitor-badge.glitch.me/badge?page_id=jahaltom.visitor-badge)](https://github.com/jahaltom)
 
 
 
